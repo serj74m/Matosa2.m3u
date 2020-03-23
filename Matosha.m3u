@@ -38,7 +38,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/513/index.m3u
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/514/index.m3u
 
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1068/index.m3u
 #EXTINF:0 tvg-rec="1",Супер
 #EXTGRP:развлекательные
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/826/index.m3u
@@ -88,6 +87,9 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/131/index.m3u
 #EXTINF:0 tvg-rec="1",TV 1000 Русское кино
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/101/index.m3u
+#EXTINF:0 tvg-rec="0",TV1000 World Kino
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1065/index.m3u
 #EXTINF:0 tvg-rec="1",Ностальгия
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/102/index.m3u
@@ -212,9 +214,7 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1071/index.m3u
 #EXTINF:0 tvg-rec="0",Дорама
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1066/index.m3u
-#EXTINF:0 tvg-rec="0",TV1000 World Kino
-#EXTGRP:кино
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1065/index.m3u
+
 #EXTINF:0 tvg-rec="1",Мир Сериала
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/856/index.m3u
@@ -1959,3 +1959,4 @@ http://212.0.215.115/FilmUaDrama/mpegts
 #EXTINF: -1,Soiuz
 http://212.0.215.115/Soiuz/index.m3u8
 
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1068/index.m3u
