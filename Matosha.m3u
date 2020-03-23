@@ -34,6 +34,7 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/513/index.m3u
 #EXTINF:0 tvg-rec="1",Домашний
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/514/index.m3u
+
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1068/index.m3u
 #EXTINF:0 tvg-rec="1",Супер
 #EXTGRP:развлекательные
@@ -44,9 +45,9 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2021/index.m3u
 #EXTINF:0 tvg-rec="1",Мужской
 #EXTGRP:развлекательные
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2047/index.m3u
-#EXTINF:0 tvg-rec="1",Luxury World
-#EXTGRP:развлекательные
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2072/index.m3u
+#EXTINF:0 tvg-rec="1",Телеканал Звезда
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/544/index.m3u
 #EXTINF:0 tvg-rec="1",Мир Premium
 #EXTGRP:развлекательные
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2105/index.m3u
@@ -54,6 +55,12 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2105/index.m3u
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/113/index.m3u
 
+#EXTINF:0 tvg-rec="1",TV 1000
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/132/index.m3u
+#EXTINF:0 tvg-rec="1",TV 1000 Action
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/131/index.m3u
 #EXTINF:0 tvg-rec="1",TV 1000 Русское кино
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/101/index.m3u
@@ -75,9 +82,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/125/index.m3u
 #EXTINF:0 tvg-rec="1",РОДНОЕ КИНО
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/126/index.m3u
-#EXTINF:0 tvg-rec="1",TV 1000 Action
-#EXTGRP:кино
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/131/index.m3u
 #EXTINF:0 tvg-rec="1",Кинохит
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/516/index.m3u
@@ -123,9 +127,7 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/555/index.m3u
 #EXTINF:0 tvg-rec="1",AMEDIA HIT
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/556/index.m3u
-#EXTINF:0 tvg-rec="1",TV 1000
-#EXTGRP:кино
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/132/index.m3u
+
 #EXTINF:0 tvg-rec="1",МУЖСКОЕ КИНО
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/164/index.m3u
@@ -220,9 +222,7 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/520/index.m3u
 #EXTINF:0 tvg-rec="1",Телеканал Да Винчи
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/537/index.m3u
-#EXTINF:0 tvg-rec="1",Телеканал Звезда
-#EXTGRP:другие
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/544/index.m3u
+
 #EXTINF:0 tvg-rec="1",Ю ТВ
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/534/index.m3u
@@ -1802,7 +1802,9 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/4004/index.m3u
 #EXTINF:0 tvg-rec="0",FTV UHD
 #EXTGRP:4K
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/4005/index.m3u
-
+#EXTINF:0 tvg-rec="1",Luxury World
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2072/index.m3u
 #EXTINF: -1,Prime
 http://212.0.215.115:80/Prime/mpegts
 #EXTINF: -1,Prime HD
