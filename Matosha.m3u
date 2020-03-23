@@ -28,6 +28,9 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/508/index.m3u
 #EXTINF:0 tvg-rec="1",РЕН ТВ
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/128/index.m3u
+#EXTINF:0 tvg-rec="1",РЕН ТВ (+2)
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/747/index.m3u
 #EXTINF:0 tvg-rec="1",Че
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/513/index.m3u
@@ -48,6 +51,27 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2047/index.m3u
 #EXTINF:0 tvg-rec="1",Телеканал Звезда
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/544/index.m3u
+#EXTINF:0 tvg-rec="1",Звезда (+2)
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/739/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ Право
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/743/index.m3u
+#EXTINF:0 tvg-rec="1",Сарафан
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/748/index.m3u
+#EXTINF:0 tvg-rec="1",РБК-ТВ
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/106/index.m3u
+#EXTINF:0 tvg-rec="1",Пятый канал
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/112/index.m3u
+#EXTINF:0 tvg-rec="1",Россия-24
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/507/index.m3u
+#EXTINF:0 tvg-rec="1",Москва 24
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/523/index.m3u
 #EXTINF:0 tvg-rec="1",Мир Premium
 #EXTGRP:развлекательные
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2105/index.m3u
@@ -250,30 +274,7 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/735/index.m3u
 #EXTINF:0 tvg-rec="1",ЖИВИ!
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/738/index.m3u
-#EXTINF:0 tvg-rec="1",Звезда (+2)
-#EXTGRP:другие
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/739/index.m3u
-#EXTINF:0 tvg-rec="1",НТВ Право
-#EXTGRP:другие
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/743/index.m3u
-#EXTINF:0 tvg-rec="1",РЕН ТВ (+2)
-#EXTGRP:другие
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/747/index.m3u
-#EXTINF:0 tvg-rec="1",Сарафан
-#EXTGRP:другие
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/748/index.m3u
-#EXTINF:0 tvg-rec="1",РБК-ТВ
-#EXTGRP:новости
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/106/index.m3u
-#EXTINF:0 tvg-rec="1",Пятый канал
-#EXTGRP:новости
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/112/index.m3u
-#EXTINF:0 tvg-rec="1",Россия-24
-#EXTGRP:новости
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/507/index.m3u
-#EXTINF:0 tvg-rec="1",Москва 24
-#EXTGRP:новости
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/523/index.m3u
+
 #EXTINF:0 tvg-rec="1",BBC World News
 #EXTGRP:новости
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/545/index.m3u
