@@ -37,7 +37,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/513/index.m3u
 #EXTINF:0 tvg-rec="1",Домашний
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/514/index.m3u
-
 #EXTINF:0 tvg-rec="1",Супер
 #EXTGRP:развлекательные
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/826/index.m3u
@@ -164,7 +163,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/555/index.m3u
 #EXTINF:0 tvg-rec="1",AMEDIA HIT
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/556/index.m3u
-
 #EXTINF:0 tvg-rec="1",МУЖСКОЕ КИНО
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/164/index.m3u
@@ -225,7 +223,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1071/index.m3u
 #EXTINF:0 tvg-rec="0",Дорама
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1066/index.m3u
-
 #EXTINF:0 tvg-rec="1",Мир Сериала
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/856/index.m3u
@@ -247,7 +244,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2062/index.m3u
 #EXTINF:0 tvg-rec="1",Киносат
 #EXTGRP:кино
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2121/index.m3u
-
 #EXTINF:0 tvg-rec="1",ТНВ-Планета
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/515/index.m3u
@@ -257,7 +253,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/520/index.m3u
 #EXTINF:0 tvg-rec="1",Телеканал Да Винчи
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/537/index.m3u
-
 #EXTINF:0 tvg-rec="1",Ю ТВ
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/534/index.m3u
@@ -285,7 +280,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/735/index.m3u
 #EXTINF:0 tvg-rec="1",ЖИВИ!
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/738/index.m3u
-
 #EXTINF:0 tvg-rec="1",BBC World News
 #EXTGRP:новости
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/545/index.m3u
@@ -304,7 +298,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/715/index.m3u
 #EXTINF:0 tvg-rec="1",Пятый Канал (+2)
 #EXTGRP:новости
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/746/index.m3u
-
 #EXTINF:0 tvg-rec="1",История
 #EXTGRP:познавательные
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/111/index.m3u
@@ -589,7 +582,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/157/index.m3u
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/717/index.m3u
 #EXTINF:0 tvg-rec="1",НТВ Стиль
 #EXTGRP:развлекательные
-
 #EXTINF:0 tvg-rec="1",Союз
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2016/index.m3u
@@ -740,7 +732,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2154/index.m3u
 #EXTINF:0 tvg-rec="1",Первый HD
 #EXTGRP:HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/204/index.m3u
-
 #EXTINF:0 tvg-rec="1",Viasat Nature/History HD
 #EXTGRP:HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/203/index.m3u
@@ -1071,7 +1062,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2400/index.m3u
 #EXTINF:0 tvg-rec="0",Футбол 3 HD
 #EXTGRP:HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/290/index.m3u
-
 #EXTINF:0 tvg-rec="0",5 канал UA
 #EXTGRP:українські
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/945/index.m3u
@@ -1357,7 +1347,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1109/index.m3u
 #EXTINF:0 tvg-rec="0",Футбол 2
 #EXTGRP:українські
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1110/index.m3u
-
 #EXTINF:0 tvg-rec="0",FRANCE 24 En
 #EXTGRP:новости
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/947/index.m3u
@@ -1412,7 +1401,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2073/index.m3u
 #EXTINF:0 tvg-rec="1",RTVi
 #EXTGRP:новости
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2086/index.m3u
-
 #EXTINF:0 tvg-rec="1",Europa Plus TV
 #EXTGRP:музыка
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/115/index.m3u
@@ -1497,7 +1485,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2142/index.m3u
 #EXTINF:0 tvg-rec="1",AIVA TV
 #EXTGRP:музыка
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2156/index.m3u
-
 #EXTINF:0 tvg-rec="0",Беларусь 24
 #EXTGRP:беларускія
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1061/index.m3u
@@ -1552,7 +1539,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2186/index.m3u
 #EXTINF:0 tvg-rec="0",Publika TV
 #EXTGRP:moldovenească
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2251/index.m3u
-
 #EXTINF:0 tvg-rec="1",SHOT TV
 #EXTGRP:взрослые
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/526/index.m3u
@@ -1628,14 +1614,11 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2162/index.m3u
 #EXTINF:0 tvg-rec="0",Exxxotica HD
 #EXTGRP:взрослые
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2397/index.m3u
-
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/745/index.m3u
 #EXTINF:0 tvg-rec="0",Fashion One
 #EXTGRP:развлекательные
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1010/index.m3u
 #EXTINF:0 tvg-rec="0",World Fashion Channel
 #EXTGRP:развлекательные
-
 #EXTINF:0 tvg-rec="0",CNL
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/955/index.m3u
@@ -1735,8 +1718,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/868/index.m3u
 #EXTINF:0 tvg-rec="1",Москва Доверие
 #EXTGRP:другие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/869/index.m3u
-
-
 #EXTINF: -1,Prime
 http://212.0.215.115:80/Prime/mpegts
 #EXTINF: -1,Prime HD
@@ -1889,5 +1870,3 @@ http://212.0.215.115/StarCinema/mpegts
 http://212.0.215.115/FilmUaDrama/mpegts
 #EXTINF: -1,Soiuz
 http://212.0.215.115/Soiuz/index.m3u8
-
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1068/index.m3u
