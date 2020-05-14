@@ -1,124 +1,36 @@
 #EXTM3U url-tvg="http://ottg.tv/epg.xml.gz"
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9195.png",Первый
 http://cdn.ottg.tv/9195/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=70&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2214.png",Первый HD
-http://cdn.ottg.tv/2214/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=76&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy-pl6"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8664.png",Первый +6
-http://cdn.ottg.tv/8664/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=75&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9429.png",Первый +2
-http://cdn.ottg.tv/9429/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=77&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9664.png",Первый +4
-http://cdn.ottg.tv/9664/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=78&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="pervy-pl8"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7295.png",Первый +8
-http://cdn.ottg.tv/7295/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=79&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rossia1"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9226.png",Россия 1
 http://cdn.ottg.tv/9226/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=80&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rossia1"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5963.png",Россия HD
-http://cdn.ottg.tv/5963/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=81&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rossia1-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4936.png",Россия 1 +2
-http://cdn.ottg.tv/4936/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=82&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rossia1-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5445.png",Россия 1 +4
-http://cdn.ottg.tv/5445/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=83&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rossia1-pl6"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5764.png",Россия 1 +6
-http://cdn.ottg.tv/5764/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=84&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rossia1-pl8"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1503.png",Россия 1 +8
-http://cdn.ottg.tv/1503/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=85&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntv"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9413.png",НТВ
 http://cdn.ottg.tv/9413/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=86&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="ntv-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8004.png",НТВ +2
-http://cdn.ottg.tv/8004/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=88&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntv"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8711.png",НТВ HD
-http://cdn.ottg.tv/8711/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=87&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="ntv-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7454.png",НТВ +4
-http://cdn.ottg.tv/7454/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=89&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="ntv-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5040.png",НТВ +6
-http://cdn.ottg.tv/5040/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=90&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="ntv-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4239.png",НТВ +8
-http://cdn.ottg.tv/4239/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=91&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntv-mir"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7870.png",НТВ Мир
 http://cdn.ottg.tv/7870/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=92&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tvcentr"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7846.png",ТВЦ
 http://cdn.ottg.tv/7846/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=93&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tvcentr-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5366.png",ТВЦ +2
-http://cdn.ottg.tv/5366/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=94&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tvcentr-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8991.png",ТВЦ +4
-http://cdn.ottg.tv/8991/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=95&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tvcentr-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6262.png",ТВЦ +6
-http://cdn.ottg.tv/6262/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=96&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="5kanal-ru"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4750.png",Пятый канал
 http://cdn.ottg.tv/4750/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=97&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="5kanal-ru-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4447.png",Пятый канал +2
-http://cdn.ottg.tv/4447/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=98&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="5kanal-ru-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8598.png",Пятый канал +4
-http://cdn.ottg.tv/8598/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=99&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="5kanal-ru-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5413.png",Пятый канал +6
-http://cdn.ottg.tv/5413/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=100&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tnt"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2468.png",ТНТ
 http://cdn.ottg.tv/2468/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=101&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tnt"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1337.png",ТНТ HD
-http://cdn.ottg.tv/1337/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=102&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7754.png",ТНТ +2
-http://cdn.ottg.tv/7754/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=103&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8594.png",ТНТ +4
-http://cdn.ottg.tv/8594/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=104&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8960.png",ТНТ +6
-http://cdn.ottg.tv/8960/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=105&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="sts"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9716.png",СТС
 http://cdn.ottg.tv/9716/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=106&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="sts-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6885.png",СТС +2
-http://cdn.ottg.tv/6885/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=107&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="sts-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8715.png",СТС +4
-http://cdn.ottg.tv/8715/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=108&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rentv-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7175.png",Рен ТВ +2
-http://cdn.ottg.tv/7175/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=112&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rentv-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2741.png",Рен ТВ +6
-http://cdn.ottg.tv/2741/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=113&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-ru"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7473.png",ТВ3
+http://cdn.ottg.tv/7473/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=125&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rentv"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8082.png",Рен ТВ HD
+http://cdn.ottg.tv/8082/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=111&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="mir"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2810.png",Мир ТВ
 http://cdn.ottg.tv/2810/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=114&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="mir-premium"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7640.png",Мир Premium HD
-http://cdn.ottg.tv/7640/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=115&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="mir-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9635.png",Мир +2
-http://cdn.ottg.tv/9635/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=116&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="mir-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7562.png",Мир +6
-http://cdn.ottg.tv/7562/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=117&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="otr"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2345.png",ОТР
 http://cdn.ottg.tv/2345/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=118&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="zvezda"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7796.png",Звезда
 http://cdn.ottg.tv/7796/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=119&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="zvezda-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8214.png",Звезда +2
-http://cdn.ottg.tv/8214/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=120&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="sts-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9013.png",СТС +6
-http://cdn.ottg.tv/9013/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=109&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="sts-love"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6621.png",СТС Love
 http://cdn.ottg.tv/6621/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=110&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rentv"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8082.png",Рен ТВ HD
-http://cdn.ottg.tv/8082/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=111&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="zvezda-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1766.png",Звезда +4
-http://cdn.ottg.tv/1766/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=121&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="zvezda-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5202.png",Звезда +6
-http://cdn.ottg.tv/5202/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=122&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="che"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8708.png",Че
 http://cdn.ottg.tv/8708/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=123&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="che-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2519.png",Че +4
-http://cdn.ottg.tv/2519/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=124&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-ru"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7473.png",ТВ3
-http://cdn.ottg.tv/7473/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=125&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tv3-ru-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1500.png",ТВ 3 +2
-http://cdn.ottg.tv/1500/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=126&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tv3-ru-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4946.png",ТВ3 +4
-http://cdn.ottg.tv/4946/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=127&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tv3-ru-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9894.png",ТВ3 +6
-http://cdn.ottg.tv/9894/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=128&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="piatnica"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/3755.png",Пятница
 http://cdn.ottg.tv/3755/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=129&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="piatnica"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9657.png",Пятница HD
-http://cdn.ottg.tv/9657/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=130&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="piatnica-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9345.png",Пятница +2
-http://cdn.ottg.tv/9345/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=131&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="piatnica-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6808.png",Пятница +6
-http://cdn.ottg.tv/6808/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=132&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rtvi"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5498.png",RTVi
-http://cdn.ottg.tv/5498/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=133&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="super"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/3573.png",Супер
 http://cdn.ottg.tv/3573/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=134&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="super-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9051.png",Супер +2
@@ -127,10 +39,6 @@ http://cdn.ottg.tv/9051/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/9505/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=138&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="galaxy-tv"  group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/2753.png",Galaxy HD
 http://cdn.ottg.tv/2753/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=139&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="domashny-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6944.png",Домашний +2
-http://cdn.ottg.tv/6944/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=140&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="domashny-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/3760.png",Домашний +6
-http://cdn.ottg.tv/3760/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=141&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="kultura"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4539.png",Россия К
 http://cdn.ottg.tv/4539/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=142&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rtr-planeta-eu"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5330.png",Планета РТР
@@ -153,20 +61,8 @@ http://cdn.ottg.tv/2455/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/3482/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=148&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="nostalgia"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9997.png",Ностальгия
 http://cdn.ottg.tv/9997/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=149&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="yu"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4785.png",Ю
-http://cdn.ottg.tv/4785/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=150&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="2na2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2935.png",2х2
-http://cdn.ottg.tv/2935/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=154&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="2na2-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5200.png",2х2 +2
-http://cdn.ottg.tv/5200/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=155&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tnt4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4848.png",ТНТ4
 http://cdn.ottg.tv/4848/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=158&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt4-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5288.png",ТНТ4 +2
-http://cdn.ottg.tv/5288/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=159&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt4-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5156.png",ТНТ4 +4
-http://cdn.ottg.tv/5156/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=160&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt4-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9300.png",ТНТ4 +6
-http://cdn.ottg.tv/9300/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=161&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="kvn-tv"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7270.png",КВН ТВ
 http://cdn.ottg.tv/7270/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=162&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="sarafan"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8267.png",Сарафан
@@ -282,6 +178,12 @@ http://cdn.ottg.tv/3043/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/9462/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=271&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="paramount-comedy"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/4957.png",Paramount Comedy HD
 http://cdn.ottg.tv/4957/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=272&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="yu"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4785.png",Ю
+http://cdn.ottg.tv/4785/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=150&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="2na2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2935.png",2х2
+http://cdn.ottg.tv/2935/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=154&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="2na2-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5200.png",2х2 +2
+http://cdn.ottg.tv/5200/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=155&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="malysh"  group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/4852.png",Малыш
 http://cdn.ottg.tv/4852/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=601&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ryzhy"  group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/5672.png",Рыжий
@@ -346,6 +248,104 @@ http://cdn.ottg.tv/9549/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/9521/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=664&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ducktv"  group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/2314.png",Duck TV
 http://cdn.ottg.tv/2314/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=711&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2214.png",Первый HD
+http://cdn.ottg.tv/2214/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=76&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy-pl6"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8664.png",Первый +6
+http://cdn.ottg.tv/8664/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=75&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9429.png",Первый +2
+http://cdn.ottg.tv/9429/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=77&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9664.png",Первый +4
+http://cdn.ottg.tv/9664/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=78&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="pervy-pl8"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7295.png",Первый +8
+http://cdn.ottg.tv/7295/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=79&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rossia1"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5963.png",Россия HD
+http://cdn.ottg.tv/5963/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=81&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rossia1-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4936.png",Россия 1 +2
+http://cdn.ottg.tv/4936/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=82&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rossia1-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5445.png",Россия 1 +4
+http://cdn.ottg.tv/5445/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=83&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rossia1-pl6"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5764.png",Россия 1 +6
+http://cdn.ottg.tv/5764/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=84&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rossia1-pl8"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1503.png",Россия 1 +8
+http://cdn.ottg.tv/1503/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=85&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="ntv-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8004.png",НТВ +2
+http://cdn.ottg.tv/8004/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=88&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntv"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8711.png",НТВ HD
+http://cdn.ottg.tv/8711/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=87&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="ntv-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7454.png",НТВ +4
+http://cdn.ottg.tv/7454/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=89&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="ntv-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5040.png",НТВ +6
+http://cdn.ottg.tv/5040/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=90&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="ntv-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4239.png",НТВ +8
+http://cdn.ottg.tv/4239/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=91&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tvcentr-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5366.png",ТВЦ +2
+http://cdn.ottg.tv/5366/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=94&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tvcentr-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8991.png",ТВЦ +4
+http://cdn.ottg.tv/8991/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=95&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tvcentr-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6262.png",ТВЦ +6
+http://cdn.ottg.tv/6262/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=96&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="5kanal-ru-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4447.png",Пятый канал +2
+http://cdn.ottg.tv/4447/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=98&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="5kanal-ru-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8598.png",Пятый канал +4
+http://cdn.ottg.tv/8598/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=99&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="5kanal-ru-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5413.png",Пятый канал +6
+http://cdn.ottg.tv/5413/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=100&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tnt"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1337.png",ТНТ HD
+http://cdn.ottg.tv/1337/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=102&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7754.png",ТНТ +2
+http://cdn.ottg.tv/7754/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=103&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8594.png",ТНТ +4
+http://cdn.ottg.tv/8594/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=104&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8960.png",ТНТ +6
+http://cdn.ottg.tv/8960/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=105&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="sts-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6885.png",СТС +2
+http://cdn.ottg.tv/6885/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=107&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="sts-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8715.png",СТС +4
+http://cdn.ottg.tv/8715/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=108&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rentv-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7175.png",Рен ТВ +2
+http://cdn.ottg.tv/7175/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=112&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rentv-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2741.png",Рен ТВ +6
+http://cdn.ottg.tv/2741/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=113&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="mir-premium"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7640.png",Мир Premium HD
+http://cdn.ottg.tv/7640/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=115&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="mir-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9635.png",Мир +2
+http://cdn.ottg.tv/9635/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=116&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="mir-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/7562.png",Мир +6
+http://cdn.ottg.tv/7562/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=117&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="zvezda-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1766.png",Звезда +4
+http://cdn.ottg.tv/1766/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=121&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="zvezda-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5202.png",Звезда +6
+http://cdn.ottg.tv/5202/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=122&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tv3-ru-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1500.png",ТВ 3 +2
+http://cdn.ottg.tv/1500/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=126&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tv3-ru-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/4946.png",ТВ3 +4
+http://cdn.ottg.tv/4946/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=127&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tv3-ru-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9894.png",ТВ3 +6
+http://cdn.ottg.tv/9894/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=128&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="piatnica"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9657.png",Пятница HD
+http://cdn.ottg.tv/9657/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=130&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="piatnica-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9345.png",Пятница +2
+http://cdn.ottg.tv/9345/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=131&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="piatnica-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6808.png",Пятница +6
+http://cdn.ottg.tv/6808/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=132&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rtvi"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5498.png",RTVi
+http://cdn.ottg.tv/5498/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=133&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="zvezda-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8214.png",Звезда +2
+http://cdn.ottg.tv/8214/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=120&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="sts-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9013.png",СТС +6
+http://cdn.ottg.tv/9013/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=109&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="domashny-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/6944.png",Домашний +2
+http://cdn.ottg.tv/6944/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=140&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="domashny-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/3760.png",Домашний +6
+http://cdn.ottg.tv/3760/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=141&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt4-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5288.png",ТНТ4 +2
+http://cdn.ottg.tv/5288/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=159&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt4-pl4"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/5156.png",ТНТ4 +4
+http://cdn.ottg.tv/5156/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=160&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="tnt4-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9300.png",ТНТ4 +6
+http://cdn.ottg.tv/9300/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=161&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="che-pl7"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2519.png",Че +4
+http://cdn.ottg.tv/2519/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=124&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rbk"  group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/4428.png",РБК ТВ
 http://cdn.ottg.tv/4428/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=346&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="rossia-24"  group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/7146.png",Россия 24
@@ -362,7 +362,6 @@ http://cdn.ottg.tv/7554/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/9340/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=352&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="fanhd"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2006.png",FAN HD
 http://cdn.ottg.tv/2006/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=373&req_host=pkjX3BL
-
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="discovery-ru"  group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8979.png",Discovery Channel HD
 http://cdn.ottg.tv/8979/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=180&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="discovery-science"  group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6482.png",Discovery Science HD
