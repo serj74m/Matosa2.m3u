@@ -23,8 +23,6 @@ http://cdn.ottg.tv/5445/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/5764/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=84&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="rossia1-pl8"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/1503.png",Россия 1 +8
 http://cdn.ottg.tv/1503/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=85&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="zarubegnie_rtr-moldova"  group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/5143.png",RTR Moldova HD
-http://cdn.ottg.tv/5143/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=655&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntv"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9413.png",НТВ
 http://cdn.ottg.tv/9413/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=86&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="ntv-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8004.png",НТВ +2
@@ -1070,7 +1068,8 @@ http://cdn.ottg.tv/8608/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/1827/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=821&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="discovery-science"  group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/.png",Discovery Science HD PREMIUM+
 http://cdn.ottg.tv/1728/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=822&req_host=pkjX3BL
-
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="zarubegnie_rtr-moldova"  group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/5143.png",RTR Moldova HD
+http://cdn.ottg.tv/5143/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=655&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="1hd"  group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/3533.png",1HD Music
 http://cdn.ottg.tv/3533/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=327&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="m1-ua"  group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/7349.png",М1
