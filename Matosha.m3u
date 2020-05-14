@@ -370,12 +370,20 @@ http://cdn.ottg.tv/9462/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/4957/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=272&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="muzhskoe-kino"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5595.png",Мужское кино
 http://cdn.ottg.tv/5595/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=273&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="nashe-muzhskoe"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5365.png",Наше Мужское HD
+http://cdn.ottg.tv/5365/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=759&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="muzhskoy"  group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/9283.png",Мужской
+http://cdn.ottg.tv/9283/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=402&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="domkino"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2851.png",Дом Кино
 http://cdn.ottg.tv/2851/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=274&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="domkino-premium"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6799.png",Дом кино Премиум HD
 http://cdn.ottg.tv/6799/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=275&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="hollywood-hd"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1996.png",Hollywood HD
 http://cdn.ottg.tv/1996/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=276&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="malysh"  group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/4852.png",Малыш
+http://cdn.ottg.tv/4852/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=601&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ryzhy"  group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/5672.png",Рыжий
+http://cdn.ottg.tv/5672/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=602&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="detsky"  group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/5438.png",Уникум HD
 http://cdn.ottg.tv/5438/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=303&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="nickelodeon-hd"  group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/3240.png",Nickelodeon HD
@@ -736,10 +744,6 @@ http://cdn.ottg.tv/8454/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/9847/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=567&req_host=pkjX3BL
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="sonce-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9412.png",Сонце
 http://cdn.ottg.tv/9412/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=568&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="sport1-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1339.png",Спорт-1
-http://cdn.ottg.tv/1339/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=569&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="sport2-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/1427.png",Спорт-2
-http://cdn.ottg.tv/1427/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=570&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="bolt-ru"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/1382.png",Болт
 http://cdn.ottg.tv/1382/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=571&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ukraina"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5515.png",Украина HD
@@ -774,10 +778,6 @@ http://cdn.ottg.tv/2273/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/8805/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=599&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="kto-est-kto"  group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/7182.png",Кто есть кто
 http://cdn.ottg.tv/7182/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=600&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="malysh"  group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/4852.png",Малыш
-http://cdn.ottg.tv/4852/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=601&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ryzhy"  group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/5672.png",Рыжий
-http://cdn.ottg.tv/5672/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=602&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="kinosat"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6899.png",Киносат
 http://cdn.ottg.tv/6899/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=603&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntv-serial"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/3213.png",НТВ Сериал
@@ -974,8 +974,6 @@ http://cdn.ottg.tv/6565/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/2119/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=761&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pro-lyubov"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2645.png",Про Любовь HD
 http://cdn.ottg.tv/2645/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=760&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="nashe-muzhskoe"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/5365.png",Наше Мужское HD
-http://cdn.ottg.tv/5365/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=759&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="blokbaster"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/6759.png",Блокбастер HD
 http://cdn.ottg.tv/6759/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=758&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="nash-kinopokaz"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/2159.png",Наш Кинопоказ HD
