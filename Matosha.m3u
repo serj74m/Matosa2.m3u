@@ -933,6 +933,28 @@ http://cdn.ottg.tv/2603/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/8937/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=736&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="filmbox-arthouse"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/9238.png",FilmBox ArtHouse
 http://cdn.ottg.tv/9238/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=737&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="1plus1"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7016.png",1+1
+http://cdn.ottg.tv/7016/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=165&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ukraina"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7003.png",Украина
+http://cdn.ottg.tv/7003/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=166&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ictv-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5886.png",ICTV
+http://cdn.ottg.tv/5886/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=167&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="inter-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/5928.png",Интер
+http://cdn.ottg.tv/5928/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=168&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="stb-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4772.png",СТБ
+http://cdn.ottg.tv/4772/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=169&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="2plus2"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/7476.png",2+2
+http://cdn.ottg.tv/7476/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=170&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="novy-kanal-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4256.png",Новый канал
+http://cdn.ottg.tv/4256/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=171&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="k1-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4625.png",К1
+http://cdn.ottg.tv/4625/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=172&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="k2-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4349.png",К2
+http://cdn.ottg.tv/4349/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=173&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tet-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/3700.png",ТЕТ
+http://cdn.ottg.tv/3700/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=174&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntn-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4544.png",НТН
+http://cdn.ottg.tv/4544/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=175&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="inter-plus-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/6643.png",Интер+
 http://cdn.ottg.tv/6643/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=738&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="indigo-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/9998.png",Индиго ТВ
