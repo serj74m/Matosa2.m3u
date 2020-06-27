@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-EXTINF:-2 tvg-name="Первый канал" group-title="Россия", Первый канал
+#EXTINF:-2 tvg-name="Первый канал" group-title="Россия", Первый канал
 http://31.40.128.20/hls/001_perviy.m3u8
 #EXTINF:-2 tvg-name="Россия 1" group-title="Россия", Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
