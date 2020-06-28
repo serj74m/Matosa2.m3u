@@ -1344,7 +1344,6 @@ http://cdn.ottg.tv/5150/video.m3u8?username=serj74m&password=9hy4bx2zh85&token=8
 #EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="shakhtar-tv"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/.png",Шахтер ТВ
 http://cdn.ottg.tv/9987/video.m3u8?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=851&req_host=pkjX3BL
 
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2214.png",Первый HD
 http://cdn.ottg.tv/2214/video.m3u8?username=serj74m&password=9hy4bx2zh85&token=85a92f93cf46ab297a41a0d7ce6a8a41&ch_id=76&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy-pl2"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9429.png",Первый +2
