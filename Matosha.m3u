@@ -1,4 +1,89 @@
 #EXTM3U url-tvg="
+#EXTINF:-1 group-title="Мужские",Охота и Рыбалка
+http://hlstv.kem.211.ru/239.211.211.60/stream.m3u8
+#EXTINF:-1 tvg-name="Первый канал" group-title="Общие",Первый канал
+http://178.217.72.66/225.201.2.57/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Первый канал" group-title="Общие",Первый канал (Резерв1)
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",Планета HD
+http://hlstv.kem.211.ru/239.211.200.19/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Психология
+http://hlstv.kem.211.ru/239.211.211.64/stream.m3u8
+#EXTINF:-1 tvg-name="Пятница" group-title="Развлекательные",Пятница (Резерв1)
+http://hlstv.kem.211.ru/239.211.211.21/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные",Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="Развлекательные",Рен ТВ International
+http://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1 group-title="Кино",Родное кино
+http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
+#EXTINF:-1 tvg-name="rodnoe-kino" group-title="Кино",Родное кино (Резерв2)
+http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1 tvg-name="rodnoe-kino" group-title="Кино",Родное кино (Резерв3)
+http://178.217.72.66:80/225.201.2.56/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="rossia1" group-title="Общие",Россия 1 (Резерв1)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Общие",Россия HD
+http://hlstv.kem.211.ru/239.211.200.2/stream.m3u8
+#EXTINF:-1 group-title="Новостные",Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/vgtrkrtmp/smil:chel_r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-name="Русский Иллюзион" group-title="Кино",Русский Иллюзион (Резерв1)
+http://hlstv.kem.211.ru/239.211.211.88/stream.m3u8
+#EXTINF:-1 tvg-name="Русский роман" group-title="Кино",Русский Роман (Резерв2)
+http://hlstv.kem.211.ru/239.211.211.31/stream.m3u8
+#EXTINF:-1 group-title="Кино",Русский Роман HD
+http://hlstv.kem.211.ru/239.211.200.29/stream.m3u8
+#EXTINF:-1 group-title="Детские",Рыжий
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
+#EXTINF:-1 group-title="Религиозные",Союз
+http://hlstv.kem.211.ru/239.211.211.56/stream.m3u8
+#EXTINF:-1 group-title="Религиозные",Спас
+http://hlstv.kem.211.ru/239.211.211.102/stream.m3u8
+#EXTINF:-1 group-title="Региональные",СТВ Беларусь
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 tvg-name="СТС" group-title="Развлекательные",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="СТС" group-title="Развлекательные",СТС (Резерв1)
+http://79.135.71.195:8010
+#EXTINF:-1 tvg-name="СТС +4" group-title="Развлекательные",СТС +4
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС International
+http://163.172.179.78:8081/tv/STS-int/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС Love
+http://hlstv.kem.211.ru/239.211.211.99/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Твой Дом
+http://hlstv.kem.211.ru/239.211.211.113/stream.m3u8
+#EXTINF:-1 group-title="Общие",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Общие",ТВЦ (Резерв1)
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+#EXTINF:-1 group-title="Музыка",Театр
+http://hlstv.kem.211.ru/239.211.211.110/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Техно 24
+http://hlstv.kem.211.ru/239.211.211.45/stream.m3u8
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ (Резерв1)
+http://178.217.72.66:80/225.201.2.242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ +4
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ EXCLUSIVE TV
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 tvg-name="Уникум" group-title="Детские",Уникум (Резерв1)
+http://hlstv.kem.211.ru/239.211.211.69/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Усадьба
+http://hlstv.kem.211.ru/239.211.211.62/stream.m3u8
+#EXTINF:-1 group-title="Кино",Феникс+ кино
+http://hlstv.kem.211.ru/239.211.211.72/stream.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол
+http://hlstv.kem.211.ru/239.211.211.108/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные",Че +4
+http://hlstv.kem.211.ru/239.211.211.100/stream.m3u8
+#EXTINF:-1 group-title="Музыка",Шансон ТВ
+http://hlstv.kem.211.ru/239.211.211.78/stream.m3u8
+
 #EXTINF:-1 group-title="Кино",VIP Comedy
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
 #EXTINF:-1 group-title="Кино",VIP Megahit
@@ -24,6 +109,14 @@ http://live02-cdn.tv.ti.ru:80/dtv/id135_NBN_SG--komediya_tv/03/plst.m3u8
 #EXTINF:-1 group-title="Кино",Кинопремьера
 http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
 #EXTINF:-1 group-title="Кино",Мужское кино
+#EXTINF:-1 group-title="Мужские",Мужской
+http://hlstv.kem.211.ru/239.211.211.54/stream.m3u8
+#EXTINF:-1 tvg-name="Мульт" group-title="Детские",Мульт (Резерв2)
+http://182.73.122.74:10004/bysid/1113
+#EXTINF:-1 group-title="Детские",Мультиландия
+http://hlstv.kem.211.ru/239.211.211.3/stream.m3u8
+#EXTINF:-1 tvg-name="Мультимузыка" group-title="Детские",Мультимузыка (Резерв1)
+http://hlstv.kem.211.ru/239.211.211.12/stream.m3u8
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 http://vs-msk-02.tv.ti.ru/dtv/id1285_NBN_SG--Kinouzhas_wflite/04/plst.m3u8
@@ -89,12 +182,6 @@ http://hlstv.kem.211.ru/239.211.200.6/stream.m3u8
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 #EXTINF:-1 group-title="Кино",KINO 24
 http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Mezzo Live HD
-http://hlstv.kem.211.ru/239.211.200.10/stream.m3u8
-#EXTINF:-1 tvg-name="MTV" group-title="Музыка",MTV (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.147/stream.m3u8
-#EXTINF:-1 group-title="Музыка",MTV Live HD
-http://hlstv.kem.211.ru/239.211.200.9/stream.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://hlstv.kem.211.ru/239.211.211.40/stream.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
@@ -253,24 +340,10 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Кухня ТВ
 http://hlstv.kem.211.ru/239.211.211.130/stream.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ HD
-http://hlstv.kem.211.ru/239.211.200.12/stream.m3u8
 #EXTINF:-1 group-title="Музыка",Ля-минор
 http://hlstv.kem.211.ru/239.211.211.20/stream.m3u8
 #EXTINF:-1 tvg-name="Мама" group-title="Детские",Мама (Резерв1)
 http://hlstv.kem.211.ru/239.211.211.7/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Матч!
-http://hlstv.kem.211.ru/239.211.211.27/stream.m3u8
-#EXTINF:-1 tvg-name="match-tv" group-title="Спорт",Матч! (Резерв1)
-http://178.217.72.66/225.201.2.16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="match-tv" group-title="Спорт",Матч! (Резерв2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Боец
-http://hlstv.kem.211.ru/239.211.211.44/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Игра HD
-http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Страна
-http://hlstv.kem.211.ru/239.211.211.63/stream.m3u8
 #EXTINF:-1 group-title="Кино",Мир +4
 http://hlstv.kem.211.ru/239.211.211.52/stream.m3u8
 #EXTINF:-1 tvg-name="Мир +4" group-title="Кино",Мир +4 (Резерв1)
@@ -307,91 +380,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8
 http://hlstv.kem.211.ru/239.211.211.120/stream.m3u8
 #EXTINF:-1 tvg-name="ОТР" group-title="Общие",ОТР (Резерв1)
 http://hlstv.kem.211.ru/239.211.211.1/stream.m3u8
-#EXTINF:-1 group-title="Мужские",Охота и Рыбалка
-http://hlstv.kem.211.ru/239.211.211.60/stream.m3u8
-#EXTINF:-1 tvg-name="Первый канал" group-title="Общие",Первый канал
-http://178.217.72.66/225.201.2.57/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Первый канал" group-title="Общие",Первый канал (Резерв1)
-http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Планета HD
-http://hlstv.kem.211.ru/239.211.200.19/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Психология
-http://hlstv.kem.211.ru/239.211.211.64/stream.m3u8
-#EXTINF:-1 tvg-name="Пятница" group-title="Развлекательные",Пятница (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.21/stream.m3u8
-#EXTINF:-1 group-title="Развлекательные",Рен ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="Развлекательные",Рен ТВ International
-http://sc.id-tv.kz/RenTV_38_39.m3u8
-#EXTINF:-1 group-title="Кино",Родное кино
-http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
-#EXTINF:-1 tvg-name="rodnoe-kino" group-title="Кино",Родное кино (Резерв2)
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1 tvg-name="rodnoe-kino" group-title="Кино",Родное кино (Резерв3)
-http://178.217.72.66:80/225.201.2.56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="rossia1" group-title="Общие",Россия 1 (Резерв1)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Общие",Россия HD
-http://hlstv.kem.211.ru/239.211.200.2/stream.m3u8
-#EXTINF:-1 group-title="Новостные",Россия 24
-http://a3569458063-s26881.cdn.ngenix.net/vgtrkrtmp/smil:chel_r24.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-name="Русский Иллюзион" group-title="Кино",Русский Иллюзион (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.88/stream.m3u8
-#EXTINF:-1 tvg-name="Русский роман" group-title="Кино",Русский Роман (Резерв2)
-http://hlstv.kem.211.ru/239.211.211.31/stream.m3u8
-#EXTINF:-1 group-title="Кино",Русский Роман HD
-http://hlstv.kem.211.ru/239.211.200.29/stream.m3u8
-#EXTINF:-1 group-title="Детские",Рыжий
-http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",Сарафан
-http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
-#EXTINF:-1 group-title="Религиозные",Союз
-http://hlstv.kem.211.ru/239.211.211.56/stream.m3u8
-#EXTINF:-1 group-title="Религиозные",Спас
-http://hlstv.kem.211.ru/239.211.211.102/stream.m3u8
-#EXTINF:-1 group-title="Региональные",СТВ Беларусь
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 tvg-name="СТС" group-title="Развлекательные",СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="СТС" group-title="Развлекательные",СТС (Резерв1)
-http://79.135.71.195:8010
-#EXTINF:-1 tvg-name="СТС +4" group-title="Развлекательные",СТС +4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС International
-http://163.172.179.78:8081/tv/STS-int/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС Love
-http://hlstv.kem.211.ru/239.211.211.99/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Твой Дом
-http://hlstv.kem.211.ru/239.211.211.113/stream.m3u8
-#EXTINF:-1 group-title="Общие",ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:-1 tvg-name="ТВЦ" group-title="Общие",ТВЦ (Резерв1)
-http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
-#EXTINF:-1 group-title="Музыка",Театр
-http://hlstv.kem.211.ru/239.211.211.110/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Техно 24
-http://hlstv.kem.211.ru/239.211.211.45/stream.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ (Резерв1)
-http://178.217.72.66:80/225.201.2.242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ +4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ EXCLUSIVE TV
-http://89.28.25.122/hls/tnt_md.m3u8
-#EXTINF:-1 tvg-name="Уникум" group-title="Детские",Уникум (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.69/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Усадьба
-http://hlstv.kem.211.ru/239.211.211.62/stream.m3u8
-#EXTINF:-1 group-title="Кино",Феникс+ кино
-http://hlstv.kem.211.ru/239.211.211.72/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол
-http://hlstv.kem.211.ru/239.211.211.108/stream.m3u8
-#EXTINF:-1 group-title="Развлекательные",Че +4
-http://hlstv.kem.211.ru/239.211.211.100/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Шансон ТВ
-http://hlstv.kem.211.ru/239.211.211.78/stream.m3u8
-
 
 #EXTINF:-2 tvg-name="РТР Планета" group-title="Россия", РТР Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
