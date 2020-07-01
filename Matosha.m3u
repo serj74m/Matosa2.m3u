@@ -3,6 +3,82 @@
 http://hlstv.kem.211.ru/239.211.211.60/stream.m3u8
 #EXTINF:-1 tvg-name="Первый канал" group-title="Общие",Первый канал
 http://178.217.72.66/225.201.2.57/tracks-v1a1/mono.m3u8
+#EXTINF:-2 tvg-name="РТР Планета" group-title="Россия", РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-2 tvg-name="Россия К" group-title="Россия", Россия К
+http://hlstv.kem.211.ru/239.211.211.22/stream.m3u8
+#EXTINF:-2 tvg-name="Известия" group-title="Россия", Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-2 tvg-name="РЕН ТВ" group-title="Россия",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-2 tvg-name="НТВ" group-title="Россия", НТВ
+http://31.40.128.20/hls/004_ntv.m3u8
+#EXTINF:-2 tvg-name="НТВ сериал" group-title="Россия", НТВ сериал
+http://178.69.23.26:8000/play/36-ntv-ntv-serial-970ca8c
+#EXTINF:-2 tvg-name="НТВ Хит" group-title="Россия", НТВ Хит
+http://178.69.23.26:8000/play/36-ntv-ntv-hit-7df93be
+#EXTINF:-2 tvg-name="НТВ Право" group-title="Россия", НТВ Право
+http://178.69.23.26:8000/play/36-ntv-ntv-pravo-565f31d
+#EXTINF:-2 tvg-name="НТВ Мир" group-title="Россия", НТВ Мир
+http://151.237.78.12:7909
+#EXTINF:-2 tvg-name="Дождь" group-title="Россия", Дождь
+http://hlstv.kem.211.ru/239.211.211.70/stream.m3u8
+#EXTINF:-2 tvg-name="RTVI" group-title="Россия", RTVI
+http://s03.iptvx.tv:8090/s/882ff861/rtvi.m3u8
+#EXTINF:-1 group-title="Россия",Победа
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
+#EXTINF:-2 tvg-name="Звезда" group-title="Россия", Звезда
+http://31.40.128.20/hls/017_zvezda.m3u8
+#EXTINF:-2 tvg-name="СТС" group-title="Россия", СТС
+http://31.40.128.20/hls/013_sts.m3u8
+#EXTINF:-2 tvg-name="СТС Love" group-title="Россия", СТС Love
+http://hlstv.kem.211.ru/239.211.211.99/stream.m3u8
+#EXTINF:-2 tvg-name="Калейдоскоп" group-title="Россия", Калейдоскоп
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-2 tvg-name="ТНТ" group-title="Россия", ТНТ
+http://31.40.128.20/hls/019_tnt.m3u8
+#EXTINF:-2 tvg-name="ТНТ4" group-title="Россия", ТНТ4
+http://hlstv.kem.211.ru/239.211.211.68/stream.m3u8
+#EXTINF:-2 tvg-name="СУПЕР" group-title="Россия", СУПЕР
+http://hlstv.kem.211.ru/239.211.211.151/stream.m3u8
+#EXTINF:-2 tvg-name="Пятница" group-title="Россия", Пятница
+http://hlstv.kem.211.ru/239.211.211.21/stream.m3u8
+#EXTINF:-2 tvg-name="ТВ-3" group-title="Россия", ТВ-3
+http://astra.realcrimea.net:8000/play/a03j
+#EXTINF:-2 tvg-name="Ностальгия" group-title="Россия", Ностальгия
+http://178.69.23.26:8000/play/36-ntv-nostalgiya-3b76fec
+#EXTINF:-2 tvg-name="КРЫМ 1" group-title="Россия", КРЫМ 1
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-2 tvg-name="КРЫМ 24" group-title="Россия", КРЫМ 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-2 group-title="Россия", Красная линия 
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-2 group-title="Россия", 5 канал
+http://31.40.128.20/hls/005_5_kanal.m3u8
+#EXTINF:-2 group-title="Россия",Че!
+http://hlstv.kem.211.ru/239.211.211.100/stream.m3u8
+#EXTINF:-2 group-title="Россия",ТРК Луч HD
+http://live.trk-luch.ru/hls/live_hi.m3u8
+#EXTINF:-2 tvg-name="ОТР" group-title="Россия", ОТР
+http://hlstv.kem.211.ru/239.211.211.1/stream.m3u8
+#EXTINF:-2 tvg-name="ТВЦ" group-title="Россия",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-2 tvg-name="Мир 24" group-title="Россия", Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-2 tvg-name="Мир Премиум" group-title="Россия", Мир Премиум
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-2 tvg-name="Сарафан" group-title="Россия", Сарафан
+http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
+#EXTINF:-2 tvg-name="КВН ТВ" group-title="Россия", КВН ТВ
+http://vs-msk-02.tv.ti.ru:80/dtv/id497_NBN_SG--kvntv/03/plst.m3u8
+#EXTINF:-1 group-title="Россия",Анекдот ТВ
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4408
+#EXTINF:-2 tvg-name="Домашний" group-title="Россия", Домашний
+http://31.40.128.20/hls/014_domashniy.m3u8
+#EXTINF:-2 tvg-name="Бобёр" group-title="Россия", Бобёр
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_BOBER/variant.m3u8
+#EXTINF:-2 tvg-name="8 канал" group-title="Россия", 8 канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 #EXTINF:-1 tvg-name="Первый канал" group-title="Общие",Первый канал (Резерв1)
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8
 #EXTINF:-1 group-title="Познавательные",Планета HD
@@ -381,82 +457,6 @@ http://hlstv.kem.211.ru/239.211.211.120/stream.m3u8
 #EXTINF:-1 tvg-name="ОТР" group-title="Общие",ОТР (Резерв1)
 http://hlstv.kem.211.ru/239.211.211.1/stream.m3u8
 
-#EXTINF:-2 tvg-name="РТР Планета" group-title="Россия", РТР Планета
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-#EXTINF:-2 tvg-name="Россия К" group-title="Россия", Россия К
-http://hlstv.kem.211.ru/239.211.211.22/stream.m3u8
-#EXTINF:-2 tvg-name="Известия" group-title="Россия", Известия
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-2 tvg-name="РЕН ТВ" group-title="Россия",Рен ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-2 tvg-name="НТВ" group-title="Россия", НТВ
-http://31.40.128.20/hls/004_ntv.m3u8
-#EXTINF:-2 tvg-name="НТВ сериал" group-title="Россия", НТВ сериал
-http://178.69.23.26:8000/play/36-ntv-ntv-serial-970ca8c
-#EXTINF:-2 tvg-name="НТВ Хит" group-title="Россия", НТВ Хит
-http://178.69.23.26:8000/play/36-ntv-ntv-hit-7df93be
-#EXTINF:-2 tvg-name="НТВ Право" group-title="Россия", НТВ Право
-http://178.69.23.26:8000/play/36-ntv-ntv-pravo-565f31d
-#EXTINF:-2 tvg-name="НТВ Мир" group-title="Россия", НТВ Мир
-http://151.237.78.12:7909
-#EXTINF:-2 tvg-name="Дождь" group-title="Россия", Дождь
-http://hlstv.kem.211.ru/239.211.211.70/stream.m3u8
-#EXTINF:-2 tvg-name="RTVI" group-title="Россия", RTVI
-http://s03.iptvx.tv:8090/s/882ff861/rtvi.m3u8
-#EXTINF:-1 group-title="Россия",Победа
-https://sc.id-tv.kz/Pobeda_36_37.m3u8
-#EXTINF:-2 tvg-name="Звезда" group-title="Россия", Звезда
-http://31.40.128.20/hls/017_zvezda.m3u8
-#EXTINF:-2 tvg-name="СТС" group-title="Россия", СТС
-http://31.40.128.20/hls/013_sts.m3u8
-#EXTINF:-2 tvg-name="СТС Love" group-title="Россия", СТС Love
-http://hlstv.kem.211.ru/239.211.211.99/stream.m3u8
-#EXTINF:-2 tvg-name="Калейдоскоп" group-title="Россия", Калейдоскоп
-http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
-#EXTINF:-2 tvg-name="ТНТ" group-title="Россия", ТНТ
-http://31.40.128.20/hls/019_tnt.m3u8
-#EXTINF:-2 tvg-name="ТНТ4" group-title="Россия", ТНТ4
-http://hlstv.kem.211.ru/239.211.211.68/stream.m3u8
-#EXTINF:-2 tvg-name="СУПЕР" group-title="Россия", СУПЕР
-http://hlstv.kem.211.ru/239.211.211.151/stream.m3u8
-#EXTINF:-2 tvg-name="Пятница" group-title="Россия", Пятница
-http://hlstv.kem.211.ru/239.211.211.21/stream.m3u8
-#EXTINF:-2 tvg-name="ТВ-3" group-title="Россия", ТВ-3
-http://astra.realcrimea.net:8000/play/a03j
-#EXTINF:-2 tvg-name="Ностальгия" group-title="Россия", Ностальгия
-http://178.69.23.26:8000/play/36-ntv-nostalgiya-3b76fec
-#EXTINF:-2 tvg-name="КРЫМ 1" group-title="Россия", КРЫМ 1
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-2 tvg-name="КРЫМ 24" group-title="Россия", КРЫМ 24
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-2 group-title="Россия", Красная линия 
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-2 group-title="Россия", 5 канал
-http://31.40.128.20/hls/005_5_kanal.m3u8
-#EXTINF:-2 group-title="Россия",Че!
-http://hlstv.kem.211.ru/239.211.211.100/stream.m3u8
-#EXTINF:-2 group-title="Россия",ТРК Луч HD
-http://live.trk-luch.ru/hls/live_hi.m3u8
-#EXTINF:-2 tvg-name="ОТР" group-title="Россия", ОТР
-http://hlstv.kem.211.ru/239.211.211.1/stream.m3u8
-#EXTINF:-2 tvg-name="ТВЦ" group-title="Россия",ТВ Центр
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
-#EXTINF:-2 tvg-name="Мир 24" group-title="Россия", Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-2 tvg-name="Мир Премиум" group-title="Россия", Мир Премиум
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-2 tvg-name="Сарафан" group-title="Россия", Сарафан
-http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
-#EXTINF:-2 tvg-name="КВН ТВ" group-title="Россия", КВН ТВ
-http://vs-msk-02.tv.ti.ru:80/dtv/id497_NBN_SG--kvntv/03/plst.m3u8
-#EXTINF:-1 group-title="Россия",Анекдот ТВ
-http://188.40.48.89:80/restrimfree/fWVyipZrS0/4408
-#EXTINF:-2 tvg-name="Домашний" group-title="Россия", Домашний
-http://31.40.128.20/hls/014_domashniy.m3u8
-#EXTINF:-2 tvg-name="Бобёр" group-title="Россия", Бобёр
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_BOBER/variant.m3u8
-#EXTINF:-2 tvg-name="8 канал" group-title="Россия", 8 канал
-http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 #EXTINF:-2 group-title="Россия", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8?version=2
 #EXTINF:-2 group-title="Россия", ЧЕ!
