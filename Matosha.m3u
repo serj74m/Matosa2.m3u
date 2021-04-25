@@ -17,9 +17,6 @@ http://440a5987.ottolok.net/iptv/DSK9VYE5HL3QNY/6037/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +8
 #EXTGRP:Общие
 http://440a5987.ottolok.net/iptv/DSK9VYE5HL3QNY/6050/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия FHD
-#EXTGRP:Общие
-http://440a5987.ottolok.net/iptv/DSK9VYE5HL3QNY/2409/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия HD
 #EXTGRP:Общие
 http://440a5987.ottolok.net/iptv/DSK9VYE5HL3QNY/205/index.m3u8
@@ -86,9 +83,6 @@ http://440a5987.ottolok.net/iptv/DSK9VYE5HL3QNY/6040/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +8
 #EXTGRP:Общие
 http://440a5987.ottolok.net/iptv/DSK9VYE5HL3QNY/6054/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ FHD
-#EXTGRP:Общие
-http://440a5987.ottolok.net/iptv/DSK9VYE5HL3QNY/2417/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ HD
 #EXTGRP:Общие
 http://440a5987.ottolok.net/iptv/DSK9VYE5HL3QNY/237/index.m3u8
